@@ -73,7 +73,7 @@ Applied descriptive statistics and hypothesis testing to **550,000+ customer tra
 
 ---
 
-### 🚀 Side Projects (Published on Google Play)
+### 🚀 Side Projects (Published on Google PlayStore)
 
 Built and published Android applications on Google Play using AI-assisted development workflows and rapid prototyping, taking ideas from concept to production.
 
