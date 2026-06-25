@@ -36,7 +36,7 @@ Probability • Hypothesis Testing • Confidence Intervals • ANOVA • t-Test
 
 # 📌 Featured Projects
 
-## 🛒 [Target Brazil E-Commerce Analytics](https://github.com/Richa-Jain108/target-brazil-ecommerce-analytics)
+### 🛒 [Target Brazil E-Commerce Analytics](https://github.com/Richa-Jain108/target-brazil-ecommerce-analytics)
 
 Analyzed **100,000+ e-commerce orders** using **Advanced SQL** and **Google BigQuery** to uncover customer purchasing behavior, payment trends, delivery performance, and regional sales patterns, delivering actionable insights to improve business operations and customer experience.
 
