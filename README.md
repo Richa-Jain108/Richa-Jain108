@@ -35,30 +35,27 @@ Probability • Hypothesis Testing • Confidence Intervals • ANOVA • t-Test
 
 ### 📌 Featured Projects
 
+**[Target Brazil E-Commerce Analytics](https://github.com/Richa-Jain108/target-brazil-ecommerce-analytics)**
 
-- **[Target Brazil E-Commerce Analytics](https://github.com/Richa-Jain108/target-brazil-ecommerce-analytics)**
-
-  Analyzed **100,000+ e-commerce orders** using **Advanced SQL** and **Google BigQuery** to uncover customer purchasing behavior, payment trends, delivery performance, and regional sales patterns, delivering actionable insights to improve business operations and customer experience.
-
-<br>
-
-- **[Netflix Content Strategy Analysis](https://github.com/Richa-Jain108/netflix-content-strategy-analysis)**
-
-  Explored **8,807 movies and TV shows** through exploratory data analysis to identify content trends across genres, countries, release years, and content types, delivering strategic recommendations for content investment.
+Analyzed **100,000+ e-commerce orders** using **Advanced SQL** and **Google BigQuery** to uncover customer purchasing behavior, payment trends, delivery performance, and regional sales patterns, delivering actionable insights to improve business operations and customer experience.
 
 <br>
 
-- **[Delhivery Logistics Feature Engineering & Operations Analytics](https://github.com/Richa-Jain108/delhivery-logistics-feature-engineering-analysis)**
+**[Netflix Content Strategy Analysis](https://github.com/Richa-Jain108/netflix-content-strategy-analysis)**
 
-  Processed **145,000+ shipment records** to engineer predictive features, evaluate logistics performance, identify operational inefficiencies, and recommend opportunities to improve supply chain efficiency.
+Explored **8,807 movies and TV shows** through exploratory data analysis to identify content trends across genres, countries, release years, and content types, delivering strategic recommendations for content investment.
 
 <br>
 
-- **[Walmart Customer Spending Analysis](https://github.com/Richa-Jain108/walmart-customer-spending-analysis-clt)**
+**[Delhivery Logistics Feature Engineering & Operations Analytics](https://github.com/Richa-Jain108/delhivery-logistics-feature-engineering-analysis)**
 
-  Applied descriptive statistics and hypothesis testing to **550,000+ customer transactions**, uncovering Black Friday purchasing patterns and supporting data-driven business decisions through confidence intervals and statistical inference.
+Processed **145,000+ shipment records** to engineer predictive features, evaluate logistics performance, identify operational inefficiencies, and recommend opportunities to improve supply chain efficiency.
 
----
+<br>
+
+**[Walmart Customer Spending Analysis](https://github.com/Richa-Jain108/walmart-customer-spending-analysis-clt)**
+
+Applied descriptive statistics and hypothesis testing to **550,000+ customer transactions**, uncovering Black Friday purchasing patterns and supporting data-driven business decisions through confidence intervals and statistical inference.
 
 ### 📚 Additional Analytics Projects
 
