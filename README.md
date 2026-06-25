@@ -64,7 +64,7 @@ Applied descriptive statistics and hypothesis testing to **550,000+ customer tra
 
 ---
 
-## 📚 Additional Analytics Projects
+### 📚 Additional Analytics Projects
 
 
 
@@ -73,13 +73,13 @@ Applied descriptive statistics and hypothesis testing to **550,000+ customer tra
   
 ---
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 
 * Pursuing Data Science & Machine Learning through Scaler Academy
 
 ---
 
-## 🚀 Side Projects (Published on Google Play)
+### 🚀 Side Projects (Published on Google Play)
 
 Built and published Android applications on Google Play using AI-assisted development workflows and rapid prototyping, taking ideas from concept to production.
 
