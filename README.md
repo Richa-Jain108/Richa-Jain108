@@ -54,14 +54,11 @@ Applied descriptive statistics and hypothesis testing to **550,000+ customer tra
 
 ## 📚 Additional Analytics Projects
 
-### 🚴 [Yulu Bike Demand Analysis](https://github.com/Richa-Jain108/yulu-bike-demand-analysis-hypothesis-testing)
 
-Demand analysis using hypothesis testing, ANOVA, Chi-Square testing, and business recommendations.
 
-### 🏃 [Aerofit Customer Profiling Analysis](https://github.com/Richa-Jain108/aerofit-customer-profiling-analysis)
-
-Customer segmentation and probability analysis to identify target customer profiles and improve product recommendations.
-
+- [Yulu Bike Demand Analysis](https://github.com/Richa-Jain108/yulu-bike-demand-analysis-hypothesis-testing)
+- [Aerofit Customer Profiling Analysis](https://github.com/Richa-Jain108/aerofit-customer-profiling-analysis)
+  
 ---
 
 ## 🌱 Currently Learning
@@ -74,15 +71,15 @@ Customer segmentation and probability analysis to identify target customer profi
 
 Built and published Android applications on Google Play using AI-assisted development workflows and rapid prototyping, taking ideas from concept to production.
 
-### 📱 [Quiz Master](https://play.google.com/store/apps/details?id=com.rjenterprises.crorepatiquizmaster)
+- **[Quiz Master](https://play.google.com/store/apps/details?id=com.rjenterprises.crorepatiquizmaster)**  
+  An Android quiz application featuring **real Kaun Banega Crorepati (KBC)** questions, allowing users to test their knowledge through an interactive game-show style experience.
 
-An Android quiz application featuring **real Kaun Banega Crorepati (KBC)** questions, allowing users to test their knowledge through an interactive game-show style experience.
-
-### 📈 [Stock Sage](https://play.google.com/store/apps/details?id=com.rjenterprises.stocksage)
-
-AI-powered Stock Averaging & Investment Calculator.
+- **[Stock Sage](https://play.google.com/store/apps/details?id=com.rjenterprises.stocksage)**  
+  AI-powered Stock Averaging & Investment Calculator.
 
 ---
+
+
 
 ## 🤝 Let's Connect
 
@@ -94,9 +91,7 @@ AI-powered Stock Averaging & Investment Calculator.
 
 📧 Email: **[richasj108@gmail.com](mailto:richasj108@gmail.com)**
 
----
 
-⭐ Passionate about transforming messy datasets into meaningful business insights and currently seeking **Data Analyst opportunities** where I can help organizations make smarter, data-driven decisions.
 
 
 ---
