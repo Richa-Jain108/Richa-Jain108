@@ -2,11 +2,11 @@
   <img src="assets/banner.png" alt="Richa Jain Banner" width="100%">
 </p>
 
-<br>
+<h1 align="center">Hi there, I'm Richa Jain 👋</h1>
 
-# Hi there, I'm Richa Jain 👋
-
-## Data Analyst | SQL • Python • Business Intelligence • Statistics
+<h3 align="center">
+Data Analyst | SQL • Python • Business Intelligence • Statistics
+</h3>
 
 I enjoy solving business problems using data.
 
