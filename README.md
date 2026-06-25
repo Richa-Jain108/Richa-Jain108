@@ -103,4 +103,4 @@ ideas from concept to production.
 
 ---
 
-⭐ I enjoy transforming messy datasets into meaningful business insights and am currently seeking ** Data Analyst opportunities** where I can help organizations make smarter, data-driven decisions.
+⭐ I enjoy transforming messy datasets into meaningful business insights and am currently seeking **Data Analyst opportunities** where I can help organizations make smarter, data-driven decisions.
