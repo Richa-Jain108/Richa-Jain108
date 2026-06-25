@@ -2,6 +2,7 @@
   <img src="assets/banner.png" alt="Richa Jain Banner" width="100%">
 </p>
 <br>
+
 # Hi there, I'm Richa Jain 👋
 
 ## Data Analyst | SQL • Python • Business Intelligence • Statistics
