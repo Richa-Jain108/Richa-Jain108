@@ -75,8 +75,8 @@ Applied descriptive statistics and hypothesis testing to **550,000+ customer tra
 
 ### 🚀 Side Projects (Published on Google PlayStore)
 
-     Built and published Android applications on Google Play using AI-assisted development workflows aka AI Agents and VibeCoding with rapid prototyping, taking
-     ideas from concept to production.
+Built and published Android applications on Google Play using AI-assisted development workflows aka AI Agents and VibeCoding with rapid prototyping, taking
+ideas from concept to production.
 
 - **[Quiz Master](https://play.google.com/store/apps/details?id=com.rjenterprises.crorepatiquizmaster)**  
   An Android quiz application featuring **real Kaun Banega Crorepati (KBC)** questions, allowing users to test their knowledge through an interactive game-show style experience.
