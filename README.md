@@ -60,10 +60,6 @@ Applied descriptive statistics and hypothesis testing to **550,000+ customer tra
 
 ---
 
-
-
----
-
 ### 📚 Additional Analytics Projects
 
 
