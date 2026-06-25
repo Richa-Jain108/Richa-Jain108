@@ -17,7 +17,7 @@ Currently exploring how AI can enhance analytics workflows while continuing to d
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 **Technologies**
 
@@ -33,7 +33,7 @@ Probability • Hypothesis Testing • Confidence Intervals • ANOVA • t-Test
 
 ---
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 
 
 **[Target Brazil E-Commerce Analytics](https://github.com/Richa-Jain108/target-brazil-ecommerce-analytics)**
@@ -93,7 +93,7 @@ Built and published Android applications on Google Play using AI-assisted develo
 
 
 
-## 🤝 Let's Connect
+### 🤝 Let's Connect
 
 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
 
