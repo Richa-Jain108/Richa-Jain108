@@ -57,6 +57,7 @@ Processed **145,000+ shipment records** to engineer predictive features, evaluat
 
 Applied descriptive statistics and hypothesis testing to **550,000+ customer transactions**, uncovering Black Friday purchasing patterns and supporting data-driven business decisions through confidence intervals and statistical inference.
 
+---
 ### 📚 Additional Analytics Projects
 
 
